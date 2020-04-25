@@ -4,23 +4,23 @@ body {
   margin: auto; /* Center the container in the viewport */
 
   font-family: Roboto, Helvetica, sans-serif;
-  font-size: calc(12px + 0.35vw); /* Responsive base font size */
-  line-height: calc(12px + 1.05vw); /* Responsive Vertical Rhythm */
+  font-size: calc(10px + 0.35vw); /* Responsive base font size */
+  line-height: calc(10px + 1.05vw); /* Responsive Vertical Rhythm */
 }
 
 h1 {
   font-size: 1.912em;
-  line-height: calc(18px + 1.8vw); /* Responsive Vertical Rhythm */
+  line-height: calc(16px + 1.8vw); /* Responsive Vertical Rhythm */
 }
 
 h2 {
   font-size: 1.616em;
-  line-height: calc(18px + 1vw); /* Responsive Vertical Rhythm */
+  line-height: calc(16px + 1vw); /* Responsive Vertical Rhythm */
 }
 
 h3 {
   font-size: 1.471em;
-  line-height: calc(18px + 0.7vw); /* Responsive Vertical Rhythm */
+  line-height: calc(16px + 0.7vw); /* Responsive Vertical Rhythm */
 }
 
 h4 {
@@ -38,7 +38,7 @@ h6 {
 h4,
 h5,
 h6 {
-  line-height: calc(18px + 0.2vw); /* Responsive Vertical Rhythm */
+  line-height: calc(16px + 0.2vw); /* Responsive Vertical Rhythm */
 }
 
 h1,
@@ -47,5 +47,5 @@ h3,
 h4,
 h5,
 h6 {
-  margin: calc(12px + 1.05vw) 0; /* Responsive margins */
+  margin: calc(10px + 1.05vw) 0; /* Responsive margins */
 }
